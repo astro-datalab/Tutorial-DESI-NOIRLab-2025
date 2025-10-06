@@ -18,7 +18,21 @@ Tutorial to use NOIRLab's Astro Data Lab and SPARCL to access data with a focus 
 - RENDERED_LargeScaleStructureSdssLsDesi.ipynb (pre-rendered version of the same notebook)
 
 ## Slides
-- [Shared slides](slides)
+- [Shared slides](https://docs.google.com/presentation/d/1BRNU5DTNfsWbAP5s0rzK18TzeDx4OLzKvEMZWYSwpf0/edit?usp=sharing)
+
+## Agenda
+| Time | Description |
+|---|---|
+| 09:45  | Arrival / sign-in at front desk |
+| 10:00 | Welcome address by NOIRLab CTO |
+| 10:05 | Introduction to NOIRLab Astro Data Lab (slides) |
+| 10:20 | Guided tour of the new web portal (demo) |
+| 10:40 | Introduction to SPARCL (slides) |
+| 10:45 | Example tutorial notebook featuring Data Lab & SPARCL (demo) |
+| 11:30 | Tutorial notebook for interactive spectra viewer Prospect (demo) |
+| 11:50 | Instructions to define or pick hack ideas for the afternoon |
+| noon-13:00 | Work Lunch to define hack ideas |
+| 13:00-15:00 | Hack session (with pitches at beginning and wrap-up at the end) |
 
 ### Other links
 - Astro Data Lab homepage: https://datalab.noirlab.edu/
