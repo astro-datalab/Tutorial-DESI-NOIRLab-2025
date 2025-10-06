@@ -1,7 +1,7 @@
 # Tutorial-DESI-NOIRLab-2025
 Tutorial to use NOIRLab's Astro Data Lab and SPARCL to access data with a focus on DESI DR1 and the Legacy Surveys imaging.
 
-**What:** Exploring big data efficiently with SPARCL and the Astro Data Lab science platform  
+**What:** Exploring DESI DR1 efficiently with SPARCL and the Astro Data Lab science platform  
 **When:** October 8, 2025 from 10:00am-3:00pm MST  
 **Where:** Main Conference Room (MCR), NSF NOIRLab Headquarters, Tucson AZ
 
